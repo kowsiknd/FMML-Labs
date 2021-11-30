@@ -11,6 +11,10 @@
 - [Module_2_Lab2.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_2_Lab2.ipynb) PCA
 - [Module_2_Lab3.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_2_Lab3.ipynb) ISOMAP
 - [Module_2_Lab_4.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_2_Lab_4.ipynb) T-SNE
-- [Project_Module2.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Project_Module2.ipynb) PCA, ISOMAP, T-SNE over Covid Dataset
+- [Project_Module2.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Project_Module2.ipynb) (Project) PCA, ISOMAP, T-SNE over Covid Dataset
 
 ## Module 3
+
+- [FMML_CLF1_Lab1.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_CLF1_Lab1.ipynb) Understanding Distance metrics
+-
+- [Project_FMML_CLF1.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Project_FMML_CLF1.ipynb) (Project) Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
