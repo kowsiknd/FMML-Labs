@@ -16,5 +16,5 @@
 ## Module 3
 
 - [FMML_CLF1_Lab1.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_CLF1_Lab1.ipynb) Understanding Distance metrics
-- [FMML_CLF1_Lab2.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_CLF1_Lab2.ipynb) k-NN, Voronoi Diagram, Decision Boundary
+- [FMML_CLF1_Lab2.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_CLF1_Lab2.ipynb) k-NN, Voronoi Diagram, Decision Boundary, Confusion Matrix
 - [Project_FMML_CLF1.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Project_FMML_CLF1.ipynb) (Project) Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
