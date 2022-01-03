@@ -17,4 +17,4 @@
 - [Quiz 4](https://docs.google.com/forms/d/e/1FAIpQLSfKr7E9NV1v0UrlvS6-VH6ZPGpB-ThYzzcUorNLhFKfwcmSSw/viewscore?viewscore=AE0zAgDtmcoBV1SPPwPtGMYU5a4KRdrdXkyn5b62mV08f-63b-RN9FhqIHlLbima8A)
 
 ## Quaterly Exam
-- [Exam]()
+- [Exam](https://docs.google.com/forms/d/e/1FAIpQLSez4EJSgS0b791FIcnTQkTbWd9SoCzzQ1OYT0FfxDORCn_JDg/viewform)
