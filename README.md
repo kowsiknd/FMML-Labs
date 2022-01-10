@@ -20,3 +20,8 @@
 - [FMML_CLF1_Lab3.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_CLF1_Lab3.ipynb) Bag of Words(BoW), Stemming, Lemmatization, TF-IDF, knn for classifying reviews and spam
 - [FMML_CLF1_Lab4.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_CLF1_Lab4.ipynb) k-Fold, Stratified k-fold (applied on standardised and non standardised dataset), plot Confusion Matrix and classification report
 - [Project_FMML_CLF1.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Project_FMML_CLF1.ipynb) (Project) Data Visualization, Choosing K-value and Appreciating Feature Scaling and Standardization
+
+## Module 4
+
+- [FMML_Module4_Lab1_fmml20210088.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module4_Lab1_fmml20210088.ipynb) Perceptron and Gradient Descent
+- 
