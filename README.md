@@ -23,6 +23,6 @@
 
 ## Module 4
 
-- [Module4_Lab1_fmml20210088.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module4_Lab1_fmml20210088.ipynb) Perceptron 
+- [Module4_Lab_1_fmml20210088.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module4_Lab1_fmml20210088.ipynb) Perceptron 
 - [Module4_Lab_2_fmml20210088.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module4_Lab_2_fmml20210088.ipynb) - Gradient Descent and Initialization of weights (See in Things to try)
 - 
