@@ -26,4 +26,4 @@
 - [Module4_Lab_1_fmml20210088.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module4_Lab1_fmml20210088.ipynb) Perceptron 
 - [Module4_Lab_2_fmml20210088.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module4_Lab_2_fmml20210088.ipynb) Gradient Descent and Initialization of weights (See in Things to try)
 - [Module4_Lab3_fmml20210088.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module4_Lab3_fmml20210088.ipynb) BGD, SGD, MBGD and their study on change in learning rate and real data
-- 
+- [Module4_Lab4_fmml20210088](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module4_Lab4_fmml20210088.ipynb) SVM uning sklearn - LinearSVM, SVC with linear, rbf, polygon, sigmoid and precomputed kernels
