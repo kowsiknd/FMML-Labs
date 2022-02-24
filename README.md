@@ -31,3 +31,4 @@
 ## Module 5
 
 - [Module_5_Lab_1_fmml20210088.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_5_Lab_1_fmml20210088.ipynb) Module 4 Lab 4 Repeat
+- [FMML_Module_5_Lab_2.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_5_Lab_2.ipynb) Decision Trees - Plotting, Entropy, Information Gain
