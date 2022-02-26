@@ -24,3 +24,7 @@
 - [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSdrgSjjR7nR5ItTHxlvvFPRgBv9DCWkIf7niR68Xk4-GtfaxQ/viewscore?viewscore=AE0zAgCnJWebPxE2Oj8vkEPafjsspa8V3B8DoKXdK3by9mn3qP-ngFsxnu5_DUlmaw)
 - [Quiz 3](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/Module%204%20Quiz%203%20-%20FMML%202021%20Quiz.pdf) Last one is wrong
 - [Quiz 4](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/Support%20Vector%20Machines%20-%20FMML%202021%20Quiz.pdf)
+
+## Module 5
+- Quiz 1 - missing/not received
+- [Quiz 2](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/Module%205%20Quiz%202%20-%20FMML%202021%20Quiz.pdf)
