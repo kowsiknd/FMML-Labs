@@ -34,4 +34,4 @@
 - [Module_5_Lab_1_fmml20210088.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_5_Lab_1_fmml20210088.ipynb) Module 4 Lab 4 Repeat
 - [FMML_Module_5_Lab_2.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_5_Lab_2.ipynb) Decision Trees - Plotting, Entropy, Information Gain
 - [FMML_Module_5_Lab4.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_5_Lab4.ipynb) Decision Trees - Gini metric, Information Metrics and generalizability of Decision Trees, **Param sliders and dropdown**
-- [Project ](https://github.com/kowsiknd/counting-fingers-classical)
+- [Project FMML_Module_5_Project.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_5_Project.ipynb)
