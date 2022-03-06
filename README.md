@@ -27,9 +27,11 @@
 - [Module4_Lab_2_fmml20210088.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module4_Lab_2_fmml20210088.ipynb) Gradient Descent and Initialization of weights (See in Things to try)
 - [Module4_Lab3_fmml20210088.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module4_Lab3_fmml20210088.ipynb) BGD, SGD, MBGD and their study on change in learning rate and real data
 - [Module4_Lab4_fmml20210088.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module4_Lab4_fmml20210088.ipynb) SVM uning sklearn - LinearSVM, SVC with linear, rbf, polygon, sigmoid and precomputed kernels
+- [Project FMML_Module_4_Project.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_4_Project.ipynb)
 
 ## Module 5
 
 - [Module_5_Lab_1_fmml20210088.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_5_Lab_1_fmml20210088.ipynb) Module 4 Lab 4 Repeat
 - [FMML_Module_5_Lab_2.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_5_Lab_2.ipynb) Decision Trees - Plotting, Entropy, Information Gain
 - [FMML_Module_5_Lab4.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_5_Lab4.ipynb) Decision Trees - Gini metric, Information Metrics and generalizability of Decision Trees, **Param sliders and dropdown**
+- [Project ]
