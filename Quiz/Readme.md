@@ -28,3 +28,4 @@
 ## Module 5
 - Quiz 1 - missing/not received
 - [Quiz 2](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/Module%205%20Quiz%202%20-%20FMML%202021%20Quiz.pdf)
+- [Quiz 3](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/Module%205%20Quiz%203%20-%20FMML%202021%20Quiz.pdf)
