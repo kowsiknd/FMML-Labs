@@ -35,4 +35,4 @@
 - [FMML_Module_5_Lab_2.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_5_Lab_2.ipynb) Decision Trees - Plotting, Entropy, Information Gain
 - [FMML_Module_5_Lab4.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_5_Lab4.ipynb) Decision Trees - Gini metric, Information Metrics and generalizability of Decision Trees, **Param sliders and dropdown**
 - [Module_5_Lab4_EnsembleMethods.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_5_Lab4_EnsembleMethods.ipynb) Random Forest (vs DT and SVM)
-- [Project FMML_Module_5_Project.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_5_Project.ipynb)
+- [Project FMML_Module_5_Project.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/FMML_Module_5_Project.ipynb) Number in Hand Image - Decision Trees and Random Forest
