@@ -33,4 +33,4 @@
 
 ## Module 6
 - [Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSelE8HZTX0sPCN6UyNOmUYvwG80dKDLhrbaGIRhpfpAunKAcw/viewform)
-- [Quiz 2] Forgot to save
+- [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSczexL-tnTdBwh3biLbonKj5wHQq6bbCLXvGB_7xMRBDNiaGg/viewform)
