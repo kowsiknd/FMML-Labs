@@ -16,7 +16,7 @@
 - [Quiz 3](https://docs.google.com/forms/d/e/1FAIpQLSfG4SywERNgCR2lbp8GCusBaiaZfKC9MvhMUvT5_wI38trx5w/viewscore?viewscore=AE0zAgAjJUAIyR90yILpKPq62IjVp9DyTRJ0fi17G7VMbl4B0SqcCIR2VDICorioQg)
 - [Quiz 4](https://docs.google.com/forms/d/e/1FAIpQLSfKr7E9NV1v0UrlvS6-VH6ZPGpB-ThYzzcUorNLhFKfwcmSSw/viewscore?viewscore=AE0zAgDtmcoBV1SPPwPtGMYU5a4KRdrdXkyn5b62mV08f-63b-RN9FhqIHlLbima8A)
 
-## Quaterly Exam
+## Quaterly Exam 1
 - [Exam](https://docs.google.com/forms/d/e/1FAIpQLSez4EJSgS0b791FIcnTQkTbWd9SoCzzQ1OYT0FfxDORCn_JDg/viewform)
 
 ## Module 4
@@ -34,3 +34,8 @@
 ## Module 6
 - [Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSelE8HZTX0sPCN6UyNOmUYvwG80dKDLhrbaGIRhpfpAunKAcw/viewform)
 - [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSczexL-tnTdBwh3biLbonKj5wHQq6bbCLXvGB_7xMRBDNiaGg/viewform)
+
+## Quaterly Exam 2
+- [Exam](https://docs.google.com/forms/d/e/1FAIpQLSe2V900MF5PPqx36NJY-kK24GktyVCKvoTwFjhxkI5Wb458Rg/viewform)
+
+
