@@ -40,4 +40,5 @@
 ## Module 6
 - [Module_6_Lab_1_Regression.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_6_Lab_1_Regression.ipynb) Regression - Linear, Polynomial on dummy and boston house dataset 
 - [Module_6_Lab_2_regression.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_6_Lab_2_regression.ipynb) kNN Regression - BigMart and Boston House dataset, Types of Loss function Regression - {MSE, MAE, RMSE} Classification - {MLE, Cross Entropy}
+- [Module_6_Lab_3_Regression.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_6_Lab_3_Regression.ipynb)
 - [Project Byte_Panache_Regression_Project.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Byte_Panache_Regression_Project.ipynb) Improve the model
