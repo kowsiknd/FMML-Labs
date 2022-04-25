@@ -34,8 +34,10 @@
 ## Module 6
 - [Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSelE8HZTX0sPCN6UyNOmUYvwG80dKDLhrbaGIRhpfpAunKAcw/viewform)
 - [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSczexL-tnTdBwh3biLbonKj5wHQq6bbCLXvGB_7xMRBDNiaGg/viewform)
+- [Quiz 3](https://docs.google.com/forms/d/e/1FAIpQLScJLdG5DOt8MnNbR9BT3fhp4QFcxvGGbSQQdC99vEq2egvc1A/viewform)
 
 ## Quaterly Exam 2
 - [Exam](https://docs.google.com/forms/d/e/1FAIpQLSe2V900MF5PPqx36NJY-kK24GktyVCKvoTwFjhxkI5Wb458Rg/viewform)
 
-
+## Module 7
+- [Quiz 1](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/MODULE%207%20QUIZ%201.pdf) [Link](https://docs.google.com/forms/d/e/1FAIpQLSd8HqUHFdjmO7afXje4LABVHamro2ZQ8HLBkIynFHInU4jvRg/viewform)
