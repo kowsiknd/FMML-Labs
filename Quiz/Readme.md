@@ -41,3 +41,4 @@
 
 ## Module 7
 - [Quiz 1](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/MODULE%207%20QUIZ%201.pdf) [Link](https://docs.google.com/forms/d/e/1FAIpQLSd8HqUHFdjmO7afXje4LABVHamro2ZQ8HLBkIynFHInU4jvRg/viewform)
+- [Quiz 2](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/MODULE%207%20QUIZ%202.pdf) [Link](https://docs.google.com/forms/d/e/1FAIpQLSeMLaILApjEOnLPYSjRbCykhV5morTxWTrarrq8ulmQwGqXAA/viewform)
