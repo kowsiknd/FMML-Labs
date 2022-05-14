@@ -46,4 +46,5 @@
 ## Module 7
 - [Module_7_Lab_1_KMeansClustering.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_7_Lab_1_KMeansClustering.ipynb) KMeans basic implementation, sklearn, elbow method. Tain and Test on MNIST and Iris. Check the last questions
 - [Module_7_Lab_2_HierarchicalClustering.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_7_Lab_2_HierarchicalClustering.ipynb) Hierarchial clustering - Agglomerative, Divisive(Not implemented), KMeans vs Hierarchial, Kmeans vs Density based
+- [Module_7_Lab_3_Matrix_Factorization_and_SVD.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_7_Lab_3_Matrix_Factorization_and_SVD.ipynb) LSI, SVD, Movie name from description
 - [Project Module_7_Project_Unsupervised_Project](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_7_Project_Unsupervised_Project.ipynb) Movie Clustering
