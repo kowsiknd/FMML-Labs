@@ -49,3 +49,7 @@
 - [Module_7_Lab_3_Matrix_Factorization_and_SVD.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_7_Lab_3_Matrix_Factorization_and_SVD.ipynb) LSI, SVD, Movie name from description
 - [Module_7_Lab_4_Anomaly_Detection_and_KMeans_Application.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_7_Lab_4_Anomaly_Detection_and_KMeans_Application.ipynb) Anomaly detection - KMeans, **Image Compression using KMeans**
 - [Project Module_7_Project_Unsupervised_Project](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_7_Project_Unsupervised_Project.ipynb) Movie Clustering
+
+## Module 8
+- [Module_8_Lab_1_FMML_Course_Lab_1.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_8_Lab_1_FMML_Course_Lab_1.ipynb) Probability theory (with animation code)
+
