@@ -44,3 +44,7 @@
 - [Quiz 2](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/MODULE%207%20QUIZ%202.pdf) [Link](https://docs.google.com/forms/d/e/1FAIpQLSeMLaILApjEOnLPYSjRbCykhV5morTxWTrarrq8ulmQwGqXAA/viewform)
 - [Quiz 3](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/MODULE%207%20QUIZ%203.pdf) [Link](https://docs.google.com/forms/d/e/1FAIpQLSfug0kzIQsExYbe-zaV_lyOsl3BxI3153WecXUJO5LZpj5BMQ/viewform)
 - [Quiz 4](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/MODULE%207%20QUIZ%204.pdf) [Link](https://docs.google.com/forms/d/e/1FAIpQLSdYXWy2qbqn5mxX8CzBq4U7eApShk-cPNaViC8dz-9x4TrHWw/viewform)
+
+
+## Module 8
+- [Quiz 1](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/MODULE%208%20QUIZ%201.pdf) [Link](https://docs.google.com/forms/d/e/1FAIpQLScdXOytlHQ3uBd5jI_yECjpQKklUY0645eStfPy5v7-8r1haw/viewform)
