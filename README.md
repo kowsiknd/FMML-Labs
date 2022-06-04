@@ -52,4 +52,5 @@
 
 ## Module 8
 - [Module_8_Lab_1_FMML_Course_Lab_1.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_8_Lab_1_FMML_Course_Lab_1.ipynb) Probability theory (with animation code)
+- [Module_8_Lab_2.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_8_Lab_2.ipynb) Bayes Classifier 
 
