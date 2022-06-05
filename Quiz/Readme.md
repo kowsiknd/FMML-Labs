@@ -48,3 +48,4 @@
 
 ## Module 8
 - [Quiz 1](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/MODULE%208%20QUIZ%201.pdf) [Link](https://docs.google.com/forms/d/e/1FAIpQLScdXOytlHQ3uBd5jI_yECjpQKklUY0645eStfPy5v7-8r1haw/viewform)
+- [Quiz 2](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/MODULE%208%20QUIZ%202.pdf) [Link](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfiUAHu0Hm0TgYFBSkqkVBNtREzvKefVjz7ktVcXL_6h2qONg/viewform)
