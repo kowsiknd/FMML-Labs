@@ -56,3 +56,6 @@
 - [Module_8_Lab_3.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_8_Lab_3.ipynb) Bayes Classifier - sklearn, arxiv dataset
 - [Module_8_Lab_4.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_8_Lab_4.ipynb) Probabilistic Model - GMM, PyMC, Latent Dirichlet Allocation
 
+## Module 9
+- [Module_9_Lab_1.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_9_Lab_1.ipynb) MLP, SLP using Pytorch, Decision boundary code
+
