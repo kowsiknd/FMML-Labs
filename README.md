@@ -58,4 +58,5 @@
 
 ## Module 9
 - [Module_9_Lab_1.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_9_Lab_1.ipynb) MLP, SLP using Pytorch, Decision boundary code
+- [Project-Module_9_Project_Breast_Cancer_Prediction_with_MLP.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_9_Project_Breast_Cancer_Prediction_with_MLP.ipynb) MLP
 
