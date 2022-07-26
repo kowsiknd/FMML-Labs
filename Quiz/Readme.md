@@ -55,4 +55,5 @@
 ## Module 9
 - [Quiz 1](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/MODULE%209%20QUIZ%201.pdf) [Link](https://docs.google.com/forms/u/0/d/e/1FAIpQLSeM-spDVn28OA4l4e70TVSGfw7nEqITJuBEnRRTjMb09-VmkQ/viewform)
 - [Quiz 2](https://github.com/kowsiknd/FMML-Labs/blob/main/Quiz/MODULE%209%20QUIZ%202.pdf) [Link](https://docs.google.com/forms/d/e/1FAIpQLSekl2xcdR0-IGeTJJuKXOp2EcApcXD8ZOdKJzW84ItB44Vesg/viewform)
+- [Quiz 3](https://docs.google.com/forms/d/e/1FAIpQLSciY1D363m83GTQtiCdzEqbJPdZwa-M5G5yZZwA2JfzJf1gGA/viewform)
 
