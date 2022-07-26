@@ -60,5 +60,6 @@
 ## Module 9
 - [Module_9_Lab_1.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_9_Lab_1.ipynb) MLP, SLP using Pytorch, Decision boundary code
 - [Module_9_Lab_2.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_9_Lab_2.ipynb) PyTorch - Dense network, Analysis of change in HL, neurons and activation functions
+- [Module_9_Lab_3.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_9_Lab_3.ipynb) CNN using Pytorch
 - [Project-Module_9_Project_Breast_Cancer_Prediction_with_MLP.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_9_Project_Breast_Cancer_Prediction_with_MLP.ipynb) MLP
 
