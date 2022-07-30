@@ -62,4 +62,5 @@
 - [Module_9_Lab_2.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_9_Lab_2.ipynb) PyTorch - Dense network, Analysis of change in HL, neurons and activation functions
 - [Module_9_Lab_3.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_9_Lab_3.ipynb) CNN using Pytorch
 - [Project-Module_9_Project_Breast_Cancer_Prediction_with_MLP.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_9_Project_Breast_Cancer_Prediction_with_MLP.ipynb) MLP
+- [Project-Module_9_Project_b.ipynb](https://github.com/kowsiknd/FMML-Labs/blob/main/Module_9_Project_b.ipynb) CNN - Face recogition for emotion detection
 
